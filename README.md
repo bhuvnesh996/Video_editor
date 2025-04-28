@@ -1,4 +1,3 @@
-# Video_editor
 
 
 # How to start 
